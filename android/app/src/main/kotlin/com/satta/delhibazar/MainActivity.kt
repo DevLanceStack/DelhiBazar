@@ -1,0 +1,6 @@
+package com.satta.delhibazar
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
